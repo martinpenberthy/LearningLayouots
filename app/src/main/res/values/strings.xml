@@ -1,0 +1,19 @@
+<!--
+    Martin Penberthy
+    10/13/2022
+ -->
+
+<resources>
+    <string name = "app_name">LearningLayouts</string>
+    <string name = "button_label_toast">Toast</string>
+    <string name = "button_label_toggle">Toggle</string>
+
+
+    <string name = "button_label_count">Count</string>
+    <string name = "button_label_reset">RESET</string>
+    <string name = "button_label_double">Double</string>
+
+    <string name= "count_initial_value">0</string>
+
+    <string name = "toast_message">Hello Toast!</string>
+</resources>
